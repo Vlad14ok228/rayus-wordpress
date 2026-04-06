@@ -1,0 +1,22 @@
+# SSH Keys - NEVER commit!
+id_ed25519
+id_ed25519.pub
+*.pem
+*.key
+
+# Sensitive files
+memory.txt
+
+# Intermediate/temp files
+page.html
+result.txt
+black_logo_rayus.png
+black_logo_rayus_nobg.png
+logo_rayus.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude AI config
+.claude/
